@@ -1,5 +1,4 @@
 # iris flower classification
 library(datasets)
 data = iris
-
-plot(data)
+ print("ur mom")
